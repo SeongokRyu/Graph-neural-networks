@@ -24,6 +24,7 @@ I will introduce GNN in this repository: from theoretical backgrounds to impleme
 ### Attention mechanism in GNN
 * Velickovic, Petar, et al. "Graph attention networks." arXiv preprint arXiv:1710.10903 (2017).
 * GRAM: Graph-based Attention Model for Healthcare Representation Learning
+* Lee, John Boaz, et al. "Attention Models in Graphs: A Survey." arXiv preprint arXiv:1807.07984 (2018).
 
 ### Message Passing Neural Network (MPNN)
 * Li, Yujia, et al. "Gated graph sequence neural networks." arXiv preprint arXiv:1511.05493 (2015).

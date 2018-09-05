@@ -8,11 +8,12 @@ I've been using graph neural networks (GNN) mainly for molecular applications be
 I will introduce GNN in this repository: from theoretical backgrounds to implementations using TensorFlow. I hope you enjoy GNN from this moment.
 
 ## References (continually updated) :
-### Geometric Deep Learning
+### Geometric Deep Learning and Surveys on Graph Neural Networks
 * Bronstein, Michael M., et al. "Geometric deep learning: going beyond euclidean data." IEEE Signal Processing Magazine 34.4 (2017): 18-42.
 * [NIPS 2017] Tutorial - Geometric deep learning on graphs and manifolds, https://nips.cc/Conferences/2017/Schedule?showEvent=8735
 * Goyal, Palash, and Emilio Ferrara. "Graph embedding techniques, applications, and performance: A survey." Knowledge-Based Systems 151 (2018): 78-94., https://github.com/palash1992/GEM
 * Awesome Graph Embedding And Representation Learning Papers, https://github.com/benedekrozemberczki/awesome-graph-embedding
+* Battaglia, Peter W., et al. "Relational inductive biases, deep learning, and graph networks." arXiv preprint arXiv:1806.01261 (2018).
 
 ### Graph Convolution Network (GCN)
 * Defferrard, Michaël, Xavier Bresson, and Pierre Vandergheynst. "Convolutional neural networks on graphs with fast localized spectral filtering." Advances in Neural Information Processing Systems. 2016.

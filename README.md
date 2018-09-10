@@ -34,6 +34,7 @@ I will introduce GNN in this repository: from theoretical backgrounds to impleme
 ### Graph Autoencoder and Graph Generative Models
 * Kipf, Thomas N., and Max Welling. "Variational graph auto-encoders." arXiv preprint arXiv:1611.07308 (2016).
 * Simonovsky, Martin, and Nikos Komodakis. "GraphVAE: Towards Generation of Small Graphs Using Variational Autoencoders." arXiv preprint arXiv:1802.03480 (2018).
+* Liu, Qi, et al. "Constrained Graph Variational Autoencoders for Molecule Design." arXiv preprint arXiv:1805.09076 (2018).
 * Pan, Shirui, et al. "Adversarially Regularized Graph Autoencoder." arXiv preprint arXiv:1802.04407 (2018).
 * Li, Y., Vinyals, O., Dyer, C., Pascanu, R., & Battaglia, P. (2018). Learning deep generative models of graphs. arXiv preprint arXiv:1803.03324.
 
@@ -46,6 +47,7 @@ I will introduce GNN in this repository: from theoretical backgrounds to impleme
 * Shang, C., Liu, Q., Chen, K. S., Sun, J., Lu, J., Yi, J., & Bi, J. (2018). Edge Attention-based Multi-Relational Graph Convolutional Networks. arXiv preprint arXiv:1802.04944.
 * Feinberg, Evan N., et al. "Spatial Graph Convolutions for Drug Discovery." arXiv preprint arXiv:1803.04465 (2018).
 * Jin, Wengong, Regina Barzilay, and Tommi Jaakkola. "Junction Tree Variational Autoencoder for Molecular Graph Generation." arXiv preprint arXiv:1802.04364 (2018).
+* Liu, Qi, et al. "Constrained Graph Variational Autoencoders for Molecule Design." arXiv preprint arXiv:1805.09076 (2018).
 * De Cao, Nicola, and Thomas Kipf. "MolGAN: An implicit generative model for small molecular graphs." arXiv preprint arXiv:1805.11973 (2018).
 * Selvan, Raghavendra, et al. "Extraction of Airways using Graph Neural Networks." arXiv preprint arXiv:1804.04436 (2018).
 * Kipf, Thomas, et al. "Neural relational inference for interacting systems." arXiv preprint arXiv:1802.04687 (2018).

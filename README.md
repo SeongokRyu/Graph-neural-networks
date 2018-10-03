@@ -1,5 +1,9 @@
 # Graph-neural-networks
-![](gnn.png)
+
+
+<p align="center"> 
+  <img src=gnn.png width="600">
+</p>
 
 Image source : https://arxiv.org/abs/1705.07664
 
